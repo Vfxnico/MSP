@@ -1,0 +1,306 @@
+[19:01:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:01:59] [ServerMain/INFO]: Loaded 1290 recipes
+[19:02:00] [ServerMain/INFO]: Loaded 1399 advancements
+[19:02:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:02:00] [Server thread/INFO]: Loading properties
+[19:02:00] [Server thread/INFO]: Default game type: SURVIVAL
+[19:02:00] [Server thread/INFO]: Generating keypair
+[19:02:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:02:01] [Server thread/INFO]: Using epoll channel type
+[19:02:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:02:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:02:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:02:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:02:01] [Server thread/INFO]: Preparing level "world"
+[19:02:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:02:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:02:07] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[19:02:07] [Server thread/INFO]: Time elapsed: 783 ms
+[19:02:07] [Server thread/INFO]: Done (6.389s)! For help, type "help"
+[19:05:35] [Server thread/INFO]: kiri[/127.57.8.102:48823] logged in with entity id 2 at (521.3000000119209, 10.0, -459.60417605237865)
+[19:05:35] [Server thread/INFO]: kiri joined the game
+[19:07:48] [Server thread/INFO]: Dexhtery[/127.155.251.89:52067] logged in with entity id 536 at (591.5, 104.5625, -163.5)
+[19:07:48] [Server thread/INFO]: Dexhtery joined the game
+[19:08:14] [Server thread/INFO]: JACKFORTYSEVEN[/127.39.133.134:38379] logged in with entity id 905 at (615.4967230080883, 102.0, -234.70332342794)
+[19:08:14] [Server thread/INFO]: JACKFORTYSEVEN joined the game
+[19:14:57] [Server thread/INFO]: kiri has made the advancement [Not Today, Thank You]
+[19:15:52] [Server thread/INFO]: kiri was shot by Stray
+[19:16:07] [Server thread/INFO]: [Not Secure] <kiri> ctm
+[19:19:46] [Server thread/INFO]: Dexhtery has made the advancement [Not Today, Thank You]
+[19:20:44] [Server thread/INFO]: [Not Secure] <kiri> perdi todo ctm XD
+[19:20:50] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> f
+[19:20:52] [Server thread/INFO]: [Not Secure] <Dexhtery> pero wnn
+[19:20:55] [Server thread/INFO]: [Not Secure] <kiri> perdi todo ctm XD
+[19:21:06] [Server thread/INFO]: kiri lost connection: Timed out
+[19:21:06] [Server thread/INFO]: kiri left the game
+[19:21:06] [Server thread/WARN]: handleDisconnection() called twice
+[19:21:45] [Server thread/INFO]: kiri[/127.57.8.102:52157] logged in with entity id 6107 at (528.6793519103638, -12.0, -417.9648587157887)
+[19:21:45] [Server thread/INFO]: kiri joined the game
+[19:21:54] [Server thread/INFO]: kiri fell from a high place
+[19:21:58] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> SASJJASJJDJDSD
+[19:22:00] [Server thread/INFO]: [Not Secure] <kiri> ya no voy mas
+[19:22:05] [Server thread/INFO]: [Not Secure] <kiri> me pique ctm
+[19:22:08] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> nano
+[19:22:15] [Server thread/INFO]: [Not Secure] <kiri> dime
+[19:22:18] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> hay armaduras de diamanteb
+[19:22:23] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> con los aldeanos
+[19:22:28] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> y todo
+[19:22:31] [Server thread/INFO]: [Not Secure] <kiri> ... verdad
+[19:22:42] [Server thread/INFO]: [Not Secure] <kiri> tengo la de netherite pero no la queria perder aun XD
+[19:22:57] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> encantate prote4
+[19:22:59] [Server thread/INFO]: [Not Secure] <JACKFORTYSEVEN> nashe
+[19:23:39] [Server thread/INFO]: Dexhtery has made the advancement [Take Aim]
+[19:28:23] [Server thread/INFO]: [Not Secure] <Dexhtery> zzzzzz
+[19:28:25] [Server thread/INFO]: [Not Secure] <kiri> zzz
+[19:35:16] [Server thread/INFO]: JACKFORTYSEVEN has made the advancement [Enchanter]
+[19:40:51] [Server thread/INFO]: kiri fell from a high place
+[19:41:52] [Server thread/INFO]: Naikus12[/127.90.4.145:37199] logged in with entity id 16399 at (641.2080459524103, 102.0, -227.36774678097956)
+[19:41:52] [Server thread/INFO]: Naikus12 joined the game
+[19:42:01] [Server thread/INFO]: [Not Secure] <Naikus12> ola
+[19:51:31] [Server thread/INFO]: Tempestawa17[/127.207.152.227:51661] logged in with entity id 18325 at (616.4976507430833, 108.0, -188.27662999691137)
+[19:51:31] [Server thread/INFO]: Tempestawa17 joined the game
+[19:55:13] [Server thread/INFO]: [Not Secure] <kiri> me pille una wea del warden
+[19:55:21] [Server thread/INFO]: [Not Secure] <Naikus12> hay un monton abajo
+[19:55:26] [Server thread/INFO]: [Not Secure] <kiri> si cache
+[19:56:20] [Server thread/INFO]: [Not Secure] <Naikus12> santi
+[19:58:31] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[19:58:31] [Server thread/INFO]: Naikus12 left the game
+[19:58:32] [Server thread/INFO]: Tempestawa17 lost connection: Timed out
+[19:58:32] [Server thread/INFO]: Tempestawa17 left the game
+[19:58:33] [Server thread/INFO]: kiri lost connection: Timed out
+[19:58:33] [Server thread/INFO]: kiri left the game
+[19:58:33] [Server thread/WARN]: handleDisconnection() called twice
+[19:58:41] [Server thread/INFO]: Naikus12[/127.90.4.145:37635] logged in with entity id 20337 at (610.8395737880455, 102.0, -250.9145563082887)
+[19:58:41] [Server thread/INFO]: Naikus12 joined the game
+[19:59:04] [Server thread/INFO]: Tempestawa17[/127.207.152.227:53999] logged in with entity id 20420 at (629.5819164447022, 26.0, -105.74138887793973)
+[19:59:04] [Server thread/INFO]: Tempestawa17 joined the game
+[19:59:07] [Server thread/INFO]: kiri[/127.57.8.102:55625] logged in with entity id 20481 at (600.5102920085432, -5.0, -155.80183090800304)
+[19:59:07] [Server thread/INFO]: kiri joined the game
+[19:59:28] [Server thread/INFO]: Dexhtery was slain by Enderman
+[19:59:33] [Server thread/INFO]: [Not Secure] <kiri> xd
+[20:05:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[20:15:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=597, y=101, z=-245} jd{x=597, y=102, z=-247}
+[20:15:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=597, y=101, z=-245} jd{x=597, y=102, z=-248}
+[20:15:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=597, y=101, z=-245} jd{x=597, y=102, z=-248}
+[20:15:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=206, y=64, z=-17} jd{x=205, y=63, z=-17}
+[20:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:17:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=632, y=103, z=-240} jd{x=605, y=106, z=-248}
+[20:17:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=632, y=103, z=-240} jd{x=607, y=106, z=-248}
+[20:18:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=83, y=22, z=-85} jd{x=82, y=25, z=-87}
+[20:19:55] [Server thread/INFO]: [Not Secure] <Naikus12> DURMA pls
+[20:20:01] [Server thread/INFO]: JACKFORTYSEVEN lost connection: Disconnected
+[20:20:01] [Server thread/INFO]: JACKFORTYSEVEN left the game
+[20:20:05] [Server thread/INFO]: JACKFORTYSEVEN[/127.39.133.134:37721] logged in with entity id 33448 at (620.418415213447, 102.0, -242.25828992438136)
+[20:20:05] [Server thread/INFO]: JACKFORTYSEVEN joined the game
+[20:20:08] [Server thread/INFO]: [Not Secure] <Dexhtery> el kiri no puede
+[20:20:13] [Server thread/INFO]: [Not Secure] <Naikus12> buuuu
+[20:20:20] [Server thread/INFO]: JACKFORTYSEVEN lost connection: Disconnected
+[20:20:20] [Server thread/INFO]: JACKFORTYSEVEN left the game
+[20:20:23] [Server thread/INFO]: JACKFORTYSEVEN[/127.39.133.134:50665] logged in with entity id 33727 at (613.531807401978, 102.0, -242.1554731692265)
+[20:20:23] [Server thread/INFO]: JACKFORTYSEVEN joined the game
+[20:20:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=607, y=106, z=-248} jd{x=609, y=106, z=-247}
+[20:20:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=77, y=15, z=-153} jd{x=76, y=16, z=-152}
+[20:21:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=607, y=106, z=-248} jd{x=611, y=106, z=-248}
+[20:22:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=615, y=107, z=-248} jd{x=615, y=106, z=-248}
+[20:24:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=630, y=107, z=-249} jd{x=617, y=106, z=-248}
+[20:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=630, y=107, z=-249} jd{x=617, y=106, z=-248}
+[20:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:27:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=63, y=22, z=-214} jd{x=59, y=22, z=-215}
+[20:29:47] [Server thread/INFO]: [Not Secure] <Naikus12> 1200 y 1300
+[20:29:52] [Server thread/INFO]: [Not Secure] <kiri> ya
+[20:29:59] [Server thread/INFO]: [Not Secure] <kiri> ctm
+[20:30:07] [Server thread/INFO]: [Not Secure] <Naikus12> que wea
+[20:30:08] [Server thread/INFO]: [Not Secure] <Tempestawa17> cha
+[20:30:23] [Server thread/INFO]: [Not Secure] <kiri> esta buenoa
+[20:33:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=66, y=13, z=-253} jd{x=67, y=14, z=-253}
+[20:34:18] [Server thread/INFO]: Dexhtery has made the advancement [What a Deal!]
+[20:36:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=66, y=16, z=-263} jd{x=66, y=17, z=-263}
+[20:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[20:36:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=66, y=17, z=-263} jd{x=66, y=17, z=-277}
+[20:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:57:27] [Server thread/INFO]: [Not Secure] <Naikus12> aaa
+[20:57:41] [Server thread/INFO]: [Not Secure] <kiri> ni idea
+[20:58:01] [Server thread/INFO]: [Not Secure] <Naikus12> en ingles weon
+[20:59:17] [Server thread/INFO]: [Not Secure] <Naikus12> 550 y 600
+[20:59:19] [Server thread/INFO]: [Not Secure] <Naikus12> -600
+[20:59:55] [Server thread/INFO]: [Not Secure] <Naikus12> si tengo saplings
+[21:00:00] [Server thread/INFO]: [Not Secure] <Naikus12> tengo como un stack
+[21:12:37] [Server thread/INFO]: JACKFORTYSEVEN lost connection: Disconnected
+[21:12:37] [Server thread/INFO]: JACKFORTYSEVEN left the game
+[21:16:01] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[21:16:01] [Server thread/INFO]: Naikus12 left the game
+[21:16:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=721, y=113, z=-2} jd{x=720, y=113, z=-1}
+[21:21:01] [Server thread/INFO]: Naikus12[/127.90.4.145:53209] logged in with entity id 80266 at (618.8732982146738, 106.1212968405392, -244.8721708901559)
+[21:21:01] [Server thread/INFO]: Naikus12 joined the game
+[21:22:00] [Server thread/INFO]: [Not Secure] <Naikus12> kiri tienes pocion de mal presagio??
+[21:22:14] [Server thread/INFO]: [Not Secure] <kiri> tenia
+[21:22:17] [Server thread/INFO]: [Not Secure] <kiri> y mori
+[21:22:20] [Server thread/INFO]: [Not Secure] <Naikus12> bruh
+[21:22:23] [Server thread/INFO]: [Not Secure] <kiri> en la wea esa
+[21:23:45] [Server thread/INFO]: [Not Secure] <Dexhtery> zzzzz
+[21:23:45] [Server thread/INFO]: [Not Secure] <Dexhtery> zzzz
+[21:23:46] [Server thread/INFO]: [Not Secure] <Dexhtery> z
+[21:23:46] [Server thread/INFO]: [Not Secure] <Dexhtery> z
+[21:23:46] [Server thread/INFO]: [Not Secure] <Dexhtery> z
+[21:23:47] [Server thread/INFO]: [Not Secure] <Dexhtery> z
+[21:23:47] [Server thread/INFO]: [Not Secure] <kiri> zzzzz
+[21:23:48] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:23:48] [Server thread/INFO]: [Not Secure] <Dexhtery> zzzzzzzzzzz
+[21:23:48] [Server thread/INFO]: [Not Secure] <kiri> zzz
+[21:23:48] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:23:49] [Server thread/INFO]: [Not Secure] <Dexhtery> z
+[21:23:49] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[21:23:49] [Server thread/INFO]: Naikus12 left the game
+[21:23:55] [Server thread/INFO]: Naikus12[/127.90.4.145:41559] logged in with entity id 81774 at (615.9586064455024, 106.0, -246.3068403135018)
+[21:23:55] [Server thread/INFO]: Naikus12 joined the game
+[21:24:26] [Server thread/INFO]: Tempestawa17 was slain by Enderman
+[21:24:30] [Server thread/INFO]: [Not Secure] <kiri> f
+[21:25:23] [Server thread/INFO]: Made Naikus12 a server operator
+[21:25:33] [Server thread/INFO]: [Naikus12: Teleported Tempestawa17 to Naikus12]
+[21:25:51] [Server thread/INFO]: [Naikus12: Made Naikus12 no longer a server operator]
+[21:37:36] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzzz
+[21:37:45] [Server thread/INFO]: [Not Secure] <Dexhtery> VOY
+[21:37:46] [Server thread/INFO]: [Not Secure] <kiri> no
+[21:37:56] [Server thread/INFO]: [Not Secure] <kiri> zz
+[21:38:03] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzz
+[21:38:04] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzzzz
+[21:38:06] [Server thread/INFO]: [Not Secure] <kiri> zz
+[21:38:07] [Server thread/INFO]: [Not Secure] <kiri> zzz
+[21:38:07] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:07] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:07] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:08] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:08] [Server thread/INFO]: [Not Secure] <kiri> zz
+[21:38:08] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:08] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:08] [Server thread/INFO]: [Not Secure] <kiri> z
+[21:38:09] [Server thread/INFO]: [Not Secure] <Dexhtery> ESPREEN
+[21:38:10] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzzzzzzzzzz
+[21:38:11] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzzzzzzzz
+[21:38:12] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzzzzzz
+[21:38:12] [Server thread/INFO]: [Not Secure] <Tempestawa17> no
+[21:38:14] [Server thread/INFO]: [Not Secure] <Naikus12> salte del server
+[21:38:17] [Server thread/INFO]: [Not Secure] <Naikus12> y te metes
+[21:38:19] [Server thread/INFO]: [Not Secure] <Tempestawa17> no
+[21:38:19] [Server thread/INFO]: [Not Secure] <Naikus12> de una
+[21:38:20] [Server thread/INFO]: [Not Secure] <Naikus12> bruh
+[21:38:30] [Server thread/INFO]: [Not Secure] <Tempestawa17> toy en el end
+[21:38:32] [Server thread/INFO]: [Not Secure] <Tempestawa17> nu
+[21:38:33] [Server thread/INFO]: [Not Secure] <Tempestawa17> kffkfk
+[21:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[21:40:48] [Server thread/INFO]: Baby[/127.193.105.193:35427] logged in with entity id 89677 at (10.5, 90.0, 5.5)
+[21:40:48] [Server thread/INFO]: Baby joined the game
+[21:40:54] [Server thread/INFO]: [Not Secure] <kiri> a
+[21:40:58] [Server thread/INFO]: [Not Secure] <Naikus12> una amiga
+[21:41:34] [Server thread/INFO]: Baby lost connection: Timed out
+[21:41:34] [Server thread/INFO]: Baby left the game
+[21:41:34] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[21:41:34] [Server thread/INFO]: Naikus12 left the game
+[21:42:11] [Server thread/INFO]: Naikus12[/127.90.4.145:35837] logged in with entity id 90603 at (616.3000000119209, 102.0, -247.69999998807907)
+[21:42:11] [Server thread/INFO]: Naikus12 joined the game
+[21:42:20] [Server thread/INFO]: Baby[/127.193.105.193:48581] logged in with entity id 90727 at (-38.810797857903694, 71.0, 34.989991366986544)
+[21:42:20] [Server thread/INFO]: Baby joined the game
+[21:45:48] [Server thread/INFO]: [Not Secure] <Naikus12> 600 .200
+[21:45:53] [Server thread/INFO]: [Not Secure] <Naikus12> 600 -200
+[21:47:19] [Server thread/INFO]: [Not Secure] <Naikus12> la trial chamber voy para alla
+[21:50:00] [Server thread/INFO]: Baby has made the advancement [Sweet Dreams]
+[21:50:19] [Server thread/INFO]: [Not Secure] <Naikus12> no puedo dormir
+[21:50:28] [Server thread/INFO]: [Not Secure] <Tempestawa17> toma leche calentita
+[21:50:33] [Server thread/INFO]: [Not Secure] <Baby> Como llego alla?
+[21:50:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21:51:36] [Server thread/INFO]: Baby lost connection: Disconnected
+[21:51:36] [Server thread/INFO]: Baby left the game
+[21:52:32] [Server thread/INFO]: Baby[/127.193.105.193:36119] logged in with entity id 97733 at (441.32270576862726, 78.0, 178.93775855581836)
+[21:52:32] [Server thread/INFO]: Baby joined the game
+[21:52:54] [Server thread/INFO]: Naikus12 has reached the goal [Revaulting]
+[21:57:03] [Server thread/INFO]: Baby lost connection: Timed out
+[21:57:03] [Server thread/INFO]: Baby left the game
+[21:57:23] [Server thread/INFO]: Baby[/127.193.105.193:54177] logged in with entity id 100647 at (417.88083756170784, 70.0, 168.21546984718051)
+[21:57:23] [Server thread/INFO]: Baby joined the game
+[22:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[22:05:23] [Server thread/INFO]: Tempestawa17 lost connection: Disconnected
+[22:05:23] [Server thread/INFO]: Tempestawa17 left the game
+[22:07:20] [Server thread/INFO]: [Not Secure] <kiri> nico 1 hora y media sacando troncos
+[22:07:25] [Server thread/INFO]: [Not Secure] <Naikus12> apra
+[22:07:27] [Server thread/INFO]: [Not Secure] <Naikus12> para
+[22:10:44] [Server thread/INFO]: [Not Secure] <Baby> Cual era la coordenada?
+[22:10:48] [Server thread/INFO]: [Not Secure] <Naikus12> 600 -200
+[22:10:51] [Server thread/INFO]: [Not Secure] <kiri> zzz
+[22:10:52] [Server thread/INFO]: [Not Secure] <Naikus12> la y no se toma
+[22:10:55] [Server thread/INFO]: Villager cmk['Farmer'/106952, l='ServerLevel[world]', x=706.70, y=79.00, z=261.70] died, message: 'Farmer was slain by Zombie'
+[22:10:55] [Server thread/INFO]: [Not Secure] <Naikus12> no puedo dormir
+[22:10:59] [Server thread/INFO]: [Not Secure] <Naikus12> estoy en la trial chamber
+[22:11:00] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[22:11:00] [Server thread/INFO]: Naikus12 left the game
+[22:11:09] [Server thread/INFO]: Naikus12[/127.90.4.145:32959] logged in with entity id 111682 at (527.4668711503998, 27.0, -428.48077933085557)
+[22:11:09] [Server thread/INFO]: Naikus12 joined the game
+[22:11:12] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[22:11:12] [Server thread/INFO]: Naikus12 left the game
+[22:11:19] [Server thread/INFO]: Naikus12[/127.90.4.145:41375] logged in with entity id 111889 at (527.4668711503998, 27.0, -428.48077933085557)
+[22:11:19] [Server thread/INFO]: Naikus12 joined the game
+[22:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22:12:25] [Server thread/INFO]: [Not Secure] <Baby> xyz es para las coordenadas?
+[22:12:28] [Server thread/INFO]: [Not Secure] <Naikus12> sip
+[22:12:38] [Server thread/INFO]: [Not Secure] <kiri> oye nico quien chucha le exploto un creeper en la wea del hilo
+[22:12:42] [Server thread/INFO]: [Not Secure] <Naikus12> yo
+[22:12:43] [Server thread/INFO]: [Not Secure] <Naikus12> asjhddsa
+[22:12:47] [Server thread/INFO]: [Not Secure] <kiri> ctm
+[22:12:49] [Server thread/INFO]: [Not Secure] <Baby> Estoy en una aldea, es cerca?
+[22:12:51] [Server thread/INFO]: [Not Secure] <kiri> no se rompio si
+[22:12:52] [Server thread/INFO]: [Not Secure] <Naikus12> si
+[22:20:08] [Server thread/INFO]: [Not Secure] <kiri> ya llego XDd
+[22:24:40] [Server thread/INFO]: Baby has made the advancement [Monster Hunter]
+[22:25:40] [Server thread/INFO]: [Not Secure] <kiri> hermano
+[22:25:44] [Server thread/INFO]: [Not Secure] <kiri> ven mira
+[22:26:42] [Server thread/INFO]: [Not Secure] <Naikus12> sacales la polvora pls a lops creepers
+[22:26:48] [Server thread/INFO]: [Not Secure] <Naikus12> necesito la polvora
+[22:27:00] [Server thread/INFO]: [Not Secure] <Dexhtery> okok
+[22:27:16] [Server thread/INFO]: [Not Secure] <Naikus12> porque tanta madera weonm
+[22:27:27] [Server thread/INFO]: [Not Secure] <kiri> mira dc
+[22:27:32] [Server thread/INFO]: [Not Secure] <kiri> te voy a mandar algo
+[22:27:46] [Server thread/INFO]: Baby lost connection: Disconnected
+[22:27:46] [Server thread/INFO]: Baby left the game
+[22:28:40] [Server thread/INFO]: Baby[/127.193.105.193:45987] logged in with entity id 120784 at (613.3583428752444, 102.0, -179.29137257998562)
+[22:28:40] [Server thread/INFO]: Baby joined the game
+[22:28:56] [Server thread/INFO]: Baby lost connection: Disconnected
+[22:28:56] [Server thread/INFO]: Baby left the game
+[22:29:31] [Server thread/INFO]: [Not Secure] <kiri> algo poco
+[22:29:38] [Server thread/INFO]: [Not Secure] <Naikus12> maldito desquiciado
+[22:30:40] [Server thread/INFO]: Dexhtery lost connection: Timed out
+[22:30:40] [Server thread/INFO]: Dexhtery left the game
+[22:30:46] [Server thread/INFO]: Baby[/127.193.105.193:41895] logged in with entity id 121206 at (600.5792696880125, 102.0, -181.45857597438263)
+[22:30:46] [Server thread/INFO]: Baby joined the game
+[22:32:16] [Server thread/INFO]: Baby lost connection: Timed out
+[22:32:16] [Server thread/INFO]: Baby left the game
+[22:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[22:33:10] [Server thread/INFO]: Baby[/127.193.105.193:40055] logged in with entity id 122342 at (687.3854415212724, 96.0, -154.6220715842571)
+[22:33:10] [Server thread/INFO]: Baby joined the game
+[22:33:51] [Server thread/INFO]: Baby lost connection: Disconnected
+[22:33:51] [Server thread/INFO]: Baby left the game
+[22:43:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:43:52] [Server thread/INFO]: 	/op Naikus12<--[HERE]
+[22:44:02] [Server thread/INFO]: Made Naikus12 a server operator
+[22:44:07] [Server thread/INFO]: [Naikus12: Teleported Naikus12 to kiri]
+[22:44:48] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[22:44:48] [Server thread/INFO]: Naikus12 left the game
+[22:47:16] [Server thread/INFO]: kiri lost connection: Disconnected
+[22:47:16] [Server thread/INFO]: kiri left the game
+[22:55:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:55:18] [Server thread/INFO]: stop<--[HERE]
+[22:55:20] [Server thread/INFO]: Stopping the server
+[22:55:20] [Server thread/INFO]: Stopping server
+[22:55:21] [Server thread/INFO]: Saving players
+[22:55:21] [Server thread/INFO]: Saving worlds
+[22:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:55:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:55:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
