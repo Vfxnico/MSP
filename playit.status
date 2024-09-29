@@ -1,9 +1,4 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726633901036 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633904101 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1727636104556 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -11,88 +6,77 @@ orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726633919204 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636119682 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633922266 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636122783 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633925323 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636125895 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633928387 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636129010 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633931453 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636132625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633934524 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636135874 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726633949632 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636139004 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633952693 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636142237 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633955762 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636145592 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633958826 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636148670 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726633973917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636152078 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633976980 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636155223 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633980052 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636159973 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633983114 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636163054 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633986175 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726633989231 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636166166 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -100,22 +84,245 @@ orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726634004325 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636181418 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726634007390 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636184602 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726634010471 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636187721 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726634013539 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1727636190832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636193982 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636197179 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636200294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636203357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636206528 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636209831 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636215130 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636218636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636222306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636225386 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636228953 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636232027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636235297 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636238416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636241493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636244655 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636249448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636252586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636255695 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636258766 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636261881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636265113 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636268261 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636272962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636276103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636279178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636282323 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636285442 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636288513 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636291599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636295984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636299241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636302629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636305773 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636308898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636312375 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636315477 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636318561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1727636333796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636337002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636340098 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636343303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636346431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+orders-ago.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1727636349617 tunnel running, 1 tunnels registered
 
 
 TUNNELS
