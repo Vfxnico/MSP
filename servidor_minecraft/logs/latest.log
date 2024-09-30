@@ -32,3 +32,9 @@
 [03:44:37] [Server thread/INFO]: Big_J[/127.235.65.110:50657] logged in with entity id 2879 at (-881.4914619120127, -23.0, 95.40782396272336)
 [03:44:37] [Server thread/INFO]: Big_J joined the game
 [03:46:20] [Server thread/INFO]: [Not Secure] <Big_J> -879 -22 95
+[03:55:23] [Server thread/INFO]: Big_J lost connection: Timed out
+[03:55:23] [Server thread/INFO]: Big_J left the game
+[03:55:23] [Server thread/WARN]: handleDisconnection() called twice
+[03:56:00] [Server thread/INFO]: Big_J (/127.235.65.110:53471) lost connection: Disconnected
+[03:56:05] [Server thread/INFO]: Big_J[/127.235.65.110:57105] logged in with entity id 4975 at (-868.6354235982242, -5.0, 107.1511133990989)
+[03:56:05] [Server thread/INFO]: Big_J joined the game
