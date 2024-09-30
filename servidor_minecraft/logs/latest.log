@@ -51,3 +51,18 @@
 [05:08:14] [Server thread/INFO]: Naikus12 has made the advancement [Diamonds!]
 [05:22:46] [Server thread/WARN]: Big_J moved too quickly! -9.941255141785973,-1.1661092609382138,-1.0411318837471981
 [05:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[05:33:43] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[05:33:43] [Server thread/INFO]: Naikus12 left the game
+[05:34:28] [Server thread/INFO]: Big_J lost connection: Disconnected
+[05:34:28] [Server thread/INFO]: Big_J left the game
+[05:34:40] [Server thread/INFO]: Stopping the server
+[05:34:40] [Server thread/INFO]: Stopping server
+[05:34:40] [Server thread/INFO]: Saving players
+[05:34:40] [Server thread/INFO]: Saving worlds
+[05:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[05:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[05:34:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[05:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[05:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:34:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
