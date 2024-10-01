@@ -1,15 +1,115 @@
-[00:28:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:28:20] [Server thread/INFO]: sop<--[HERE]
-[00:28:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:28:25] [Server thread/INFO]: sop<--[HERE]
-[00:28:26] [Server thread/INFO]: Stopping the server
-[00:28:26] [Server thread/INFO]: Stopping server
-[00:28:26] [Server thread/INFO]: Saving players
-[00:28:26] [Server thread/INFO]: Saving worlds
-[00:28:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
-[00:28:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
-[00:28:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
-[00:28:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
-[00:28:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:28:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:28:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:29:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:29:05] [ServerMain/INFO]: Loaded 1290 recipes
+[00:29:05] [ServerMain/INFO]: Loaded 1399 advancements
+[00:29:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:29:06] [Server thread/INFO]: Loading properties
+[00:29:06] [Server thread/INFO]: Default game type: SURVIVAL
+[00:29:06] [Server thread/INFO]: Generating keypair
+[00:29:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:29:06] [Server thread/INFO]: Using epoll channel type
+[00:29:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:29:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:29:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:29:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:29:06] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
+[00:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:29:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:29:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:29:13] [Server thread/INFO]: Time elapsed: 794 ms
+[00:29:13] [Server thread/INFO]: Done (7.425s)! For help, type "help"
+[00:29:32] [Server thread/INFO]: Big_J[/127.235.65.110:40783] logged in with entity id 9 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:29:32] [Server thread/INFO]: Big_J joined the game
+[00:30:32] [Server thread/INFO]: Big_J lost connection: Disconnected
+[00:30:32] [Server thread/INFO]: Big_J left the game
+[00:31:02] [Server thread/INFO]: Big_J (/127.235.65.110:48593) lost connection: Disconnected
+[00:31:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@6129ff9d[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Timed out
+[00:32:07] [Server thread/INFO]: Big_J[/127.235.65.110:60897] logged in with entity id 328 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:32:07] [Server thread/INFO]: Big_J joined the game
+[00:32:52] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:32:52] [Server thread/INFO]: Big_J left the game
+[00:33:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@2676240b[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Disconnected
+[00:38:20] [Server thread/INFO]: Big_J[/127.235.65.110:38577] logged in with entity id 614 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:38:20] [Server thread/INFO]: Big_J joined the game
+[00:39:05] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:39:05] [Server thread/INFO]: Big_J left the game
+[00:39:11] [Server thread/INFO]: Big_J (/127.235.65.110:36597) lost connection: Disconnected
+[00:40:04] [Server thread/INFO]: Big_J[/127.235.65.110:53371] logged in with entity id 903 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:40:04] [Server thread/INFO]: Big_J joined the game
+[00:41:04] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:41:04] [Server thread/INFO]: Big_J left the game
+[00:42:58] [Server thread/INFO]: Big_J[/127.235.65.110:37859] logged in with entity id 1225 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:42:58] [Server thread/INFO]: Big_J joined the game
+[00:43:28] [Server thread/INFO]: Big_J lost connection: Disconnected
+[00:43:28] [Server thread/INFO]: Big_J left the game
+[00:44:05] [Server thread/INFO]: Big_J[/127.235.65.110:60267] logged in with entity id 1481 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:44:05] [Server thread/INFO]: Big_J joined the game
+[00:44:35] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:44:35] [Server thread/INFO]: Big_J left the game
+[00:45:07] [Server thread/INFO]: Big_J[/127.235.65.110:50547] logged in with entity id 1727 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:45:07] [Server thread/INFO]: Big_J joined the game
+[00:45:37] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:45:37] [Server thread/INFO]: Big_J left the game
+[00:47:10] [Server thread/INFO]: Big_J[/127.235.65.110:37451] logged in with entity id 1967 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:47:10] [Server thread/INFO]: Big_J joined the game
+[00:47:55] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:47:55] [Server thread/INFO]: Big_J left the game
+[00:49:23] [Server thread/INFO]: Big_J[/127.235.65.110:52397] logged in with entity id 2243 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:49:23] [Server thread/INFO]: Big_J joined the game
+[00:50:23] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:50:23] [Server thread/INFO]: Big_J left the game
+[00:50:57] [Server thread/INFO]: Big_J (/127.235.65.110:46577) lost connection: Timed out
+[00:53:08] [Server thread/INFO]: Big_J[/127.235.65.110:36013] logged in with entity id 2530 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:53:08] [Server thread/INFO]: Big_J joined the game
+[00:53:38] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:53:38] [Server thread/INFO]: Big_J left the game
+[00:53:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:53:55] [Server thread/INFO]: <--[HERE]
+[00:54:19] [Server thread/INFO]: Big_J[/127.235.65.110:36097] logged in with entity id 2766 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:54:19] [Server thread/INFO]: Big_J joined the game
+[00:54:49] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:54:49] [Server thread/INFO]: Big_J left the game
+[00:55:29] [Server thread/INFO]: Big_J (/127.235.65.110:51251) lost connection: Timed out
+[00:56:47] [Server thread/INFO]: Big_J[/127.235.65.110:41967] logged in with entity id 2997 at (-713.6429817035616, 111.875, 111.23628105172236)
+[00:56:47] [Server thread/INFO]: Big_J joined the game
+[00:57:17] [Server thread/INFO]: Big_J lost connection: Timed out
+[00:57:17] [Server thread/INFO]: Big_J left the game
+[01:01:00] [Server thread/INFO]: Big_J[/127.235.65.110:36767] logged in with entity id 3227 at (-713.6429817035616, 111.875, 111.23628105172236)
+[01:01:00] [Server thread/INFO]: Big_J joined the game
+[01:04:40] [Server thread/INFO]: Big_J has made the advancement [Cover Me with Diamonds]
+[01:32:03] [Server thread/INFO]: Naikus12[/127.58.101.208:41907] logged in with entity id 9222 at (-728.6220216417985, 111.0, 103.91905725143765)
+[01:32:03] [Server thread/INFO]: Naikus12 joined the game
+[02:04:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-713, y=113, z=152} jd{x=-715, y=112, z=153}
+[02:14:21] [Server thread/INFO]: Big_J lost connection: Timed out
+[02:14:21] [Server thread/INFO]: Big_J left the game
+[02:14:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d55030d[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Disconnected
+[02:14:38] [Server thread/INFO]: Big_J[/127.235.65.110:52783] logged in with entity id 22892 at (-712.7748192528702, 112.0, 109.01671362910547)
+[02:14:38] [Server thread/INFO]: Big_J joined the game
+[02:16:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-705, y=111, z=150} jd{x=-705, y=112, z=148}
+[02:32:40] [Server thread/INFO]: Big_J lost connection: Timed out
+[02:32:40] [Server thread/INFO]: Big_J left the game
+[02:34:32] [Server thread/INFO]: Big_J[/127.235.65.110:44107] logged in with entity id 27130 at (-709.9601989644905, 111.0, 111.40532167512762)
+[02:34:32] [Server thread/INFO]: Big_J joined the game
+[02:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-768, y=82, z=100} jd{x=-767, y=82, z=99}
+[02:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-767, y=81, z=100} jd{x=-767, y=82, z=99}
+[02:44:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-734, y=115, z=180} jd{x=-733, y=115, z=179}
+[02:44:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-734, y=115, z=180} jd{x=-733, y=115, z=179}
+[02:44:08] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[02:44:08] [Server thread/INFO]: Naikus12 left the game
+[02:44:34] [Server thread/INFO]: Naikus12[/127.58.101.208:48157] logged in with entity id 32196 at (-898.3000000119209, -10.975575911786319, 86.60228876406892)
+[02:44:34] [Server thread/INFO]: Naikus12 joined the game
+[02:45:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-729, y=115, z=163} jd{x=-725, y=114, z=166}
+[03:11:28] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[03:11:28] [Server thread/INFO]: Naikus12 left the game
+[03:11:46] [Server thread/INFO]: Big_J lost connection: Disconnected
+[03:11:46] [Server thread/INFO]: Big_J left the game
+[03:11:51] [Server thread/INFO]: Stopping the server
+[03:11:51] [Server thread/INFO]: Stopping server
+[03:11:51] [Server thread/INFO]: Saving players
+[03:11:51] [Server thread/INFO]: Saving worlds
+[03:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[03:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[03:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[03:11:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[03:11:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:11:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:11:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
