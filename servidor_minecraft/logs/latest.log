@@ -22,3 +22,11 @@
 [00:59:55] [Server thread/INFO]: Big_J[/127.235.65.110:59201] logged in with entity id 9 at (-746.3771508460566, 111.0, 129.96245044093095)
 [00:59:55] [Server thread/INFO]: Big_J joined the game
 [00:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[02:19:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-715, y=113, z=69} jd{x=-684, y=110, z=121}
+[02:25:46] [Server thread/INFO]: Big_J lost connection: Timed out
+[02:25:46] [Server thread/INFO]: Big_J left the game
+[02:25:46] [Server thread/WARN]: handleDisconnection() called twice
+[02:26:12] [Server thread/INFO]: Big_J (/127.235.65.110:58759) lost connection: Disconnected
+[02:26:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@664ffed0[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Disconnected
+[02:27:09] [Server thread/INFO]: Big_J (/127.235.65.110:57281) lost connection: Disconnected
+[02:29:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b4f8f95[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Disconnected
