@@ -32,3 +32,14 @@
 [02:29:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b4f8f95[id=e769d551-32f2-3293-a914-7ed17b8c2304,name=Big_J,properties={}] lost connection: Disconnected
 [03:22:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [03:22:00] [Server thread/INFO]: <--[HERE]
+[09:51:16] [Server thread/INFO]: Stopping the server
+[09:51:16] [Server thread/INFO]: Stopping server
+[09:51:16] [Server thread/INFO]: Saving players
+[09:51:16] [Server thread/INFO]: Saving worlds
+[09:51:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[09:51:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[09:51:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[09:51:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[09:51:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:51:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:51:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
