@@ -119,3 +119,6 @@
 [03:27:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=111, z=100} jd{x=-722, y=111, z=105}
 [03:28:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-718, y=111, z=100} jd{x=-763, y=111, z=141}
 [03:28:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-718, y=111, z=100} jd{x=-762, y=111, z=141}
+[03:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=113}
+[03:38:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=112}
+[03:40:48] [Server thread/INFO]: Naikus12 has made the advancement [Cover Me with Diamonds]
