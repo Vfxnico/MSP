@@ -122,3 +122,9 @@
 [03:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=113}
 [03:38:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=112}
 [03:40:48] [Server thread/INFO]: Naikus12 has made the advancement [Cover Me with Diamonds]
+[04:12:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-725, y=111, z=116} jd{x=-721, y=111, z=117}
+[04:12:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-725, y=111, z=116} jd{x=-721, y=111, z=117}
+[04:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[04:12:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-722, y=111, z=111}
+[04:13:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-722, y=110, z=112} jd{x=-721, y=111, z=114}
+[04:13:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-722, y=110, z=112} jd{x=-726, y=111, z=112}
