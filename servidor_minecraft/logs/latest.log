@@ -132,3 +132,7 @@
 [04:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=110, z=112} jd{x=-761, y=111, z=127}
 [04:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=110, z=112} jd{x=-761, y=111, z=127}
 [04:18:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-732, y=110, z=113} jd{x=-730, y=111, z=112}
+[04:32:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=102}
+[04:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=102}
+[04:32:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=103}
+[04:32:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-719, y=111, z=103}
