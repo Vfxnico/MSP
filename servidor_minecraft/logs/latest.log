@@ -62,3 +62,22 @@
 [02:13:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-721, y=111, z=114}
 [02:18:56] [Server thread/INFO]: [Not Secure] <Big_J> -800 350
 [02:19:01] [Server thread/INFO]: [Not Secure] <Big_J> -350 400
+[02:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.46718232790476577
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.7830824751220007
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.0949758029261147
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.4029868411149664
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.38233980753363994
+[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.3720089715894801
+[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.6023688681123076
+[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.8452775418512601
+[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.1138672668271283
+[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.3898025513520906
+[02:27:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-724, y=64, z=400} jd{x=-724, y=64, z=402}
+[02:27:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-716, y=64, z=416} jd{x=-717, y=63, z=417}
+[02:28:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-727, y=66, z=390} jd{x=-734, y=65, z=391}
+[02:28:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-727, y=66, z=390} jd{x=-734, y=65, z=391}
+[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
+[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
+[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
+[02:29:59] [Server thread/INFO]: [Not Secure] <Naikus12> -723 111 111
