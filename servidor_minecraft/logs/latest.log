@@ -136,3 +136,16 @@
 [04:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=102}
 [04:32:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=103}
 [04:32:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-719, y=111, z=103}
+[04:42:18] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[04:42:18] [Server thread/INFO]: Naikus12 left the game
+[04:42:41] [Server thread/INFO]: Stopping the server
+[04:42:41] [Server thread/INFO]: Stopping server
+[04:42:41] [Server thread/INFO]: Saving players
+[04:42:41] [Server thread/INFO]: Saving worlds
+[04:42:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[04:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[04:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
