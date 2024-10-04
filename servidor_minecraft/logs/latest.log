@@ -34,3 +34,28 @@
 [01:48:26] [Server thread/INFO]: JACKFORTYSEVEN fell from a high place
 [01:48:36] [Server thread/INFO]: JACKFORTYSEVEN lost connection: Disconnected
 [01:48:36] [Server thread/INFO]: JACKFORTYSEVEN left the game
+[02:04:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-756, y=68, z=140} jd{x=-757, y=68, z=141}
+[02:04:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-756, y=69, z=141} jd{x=-755, y=68, z=139}
+[02:05:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=141} jd{x=-752, y=70, z=140}
+[02:05:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=143} jd{x=-749, y=70, z=143}
+[02:05:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=143} jd{x=-749, y=70, z=143}
+[02:05:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=73, z=140} jd{x=-749, y=71, z=139}
+[02:05:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=71, z=140} jd{x=-749, y=70, z=139}
+[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=71, z=140} jd{x=-749, y=70, z=139}
+[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
+[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
+[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
+[02:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-747, y=71, z=140} jd{x=-746, y=70, z=141}
+[02:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-747, y=71, z=140} jd{x=-746, y=70, z=141}
+[02:05:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-752, y=77, z=166} jd{x=-751, y=76, z=166}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
+[02:05:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=172} jd{x=-755, y=75, z=173}
+[02:05:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-757, y=76, z=172} jd{x=-758, y=75, z=170}
+[02:05:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-758, y=76, z=172} jd{x=-758, y=75, z=170}
+[02:11:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-717, y=112, z=102} jd{x=-718, y=113, z=108}
