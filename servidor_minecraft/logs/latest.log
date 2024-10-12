@@ -1,151 +1,28 @@
-[01:12:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:12:35] [ServerMain/INFO]: Loaded 1290 recipes
-[01:12:35] [ServerMain/INFO]: Loaded 1399 advancements
-[01:12:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:12:37] [Server thread/INFO]: Loading properties
-[01:12:37] [Server thread/INFO]: Default game type: SURVIVAL
-[01:12:37] [Server thread/INFO]: Generating keypair
-[01:12:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:12:37] [Server thread/INFO]: Using epoll channel type
-[01:12:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:12:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:12:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:12:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:12:37] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
-[01:12:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:12:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:12:47] [Server thread/INFO]: Time elapsed: 1430 ms
-[01:12:47] [Server thread/INFO]: Done (10.187s)! For help, type "help"
-[01:12:54] [Server thread/INFO]: Naikus12[/127.121.90.88:47287] logged in with entity id 9 at (-747.6999999880791, 111.0, 129.64178114417282)
-[01:12:54] [Server thread/INFO]: Naikus12 joined the game
-[01:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[01:14:49] [Server thread/INFO]: Big_J[/127.235.65.110:39879] logged in with entity id 444 at (-735.195996121174, 110.0, 103.51879708747958)
-[01:14:49] [Server thread/INFO]: Big_J joined the game
-[01:20:41] [Server thread/INFO]: Big_J has made the advancement [Hot Stuff]
-[01:40:22] [Server thread/INFO]: JACKFORTYSEVEN[/127.177.28.219:60547] logged in with entity id 5682 at (-2.5, 66.0, 33.5)
-[01:40:22] [Server thread/INFO]: JACKFORTYSEVEN joined the game
-[01:40:38] [Server thread/INFO]: [Not Secure] <Naikus12> -700 156
-[01:43:06] [Server thread/WARN]: JACKFORTYSEVEN moved too quickly! -3.8560699486088765,-7.6722993990647055,5.244271342518033
-[01:46:41] [Server thread/INFO]: JACKFORTYSEVEN has made the advancement [Stone Age]
-[01:47:08] [Server thread/INFO]: JACKFORTYSEVEN has made the advancement [Getting an Upgrade]
-[01:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:48:26] [Server thread/INFO]: JACKFORTYSEVEN fell from a high place
-[01:48:36] [Server thread/INFO]: JACKFORTYSEVEN lost connection: Disconnected
-[01:48:36] [Server thread/INFO]: JACKFORTYSEVEN left the game
-[02:04:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-756, y=68, z=140} jd{x=-757, y=68, z=141}
-[02:04:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-756, y=69, z=141} jd{x=-755, y=68, z=139}
-[02:05:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=141} jd{x=-752, y=70, z=140}
-[02:05:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=143} jd{x=-749, y=70, z=143}
-[02:05:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-750, y=71, z=143} jd{x=-749, y=70, z=143}
-[02:05:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=73, z=140} jd{x=-749, y=71, z=139}
-[02:05:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=71, z=140} jd{x=-749, y=70, z=139}
-[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-749, y=71, z=140} jd{x=-749, y=70, z=139}
-[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
-[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
-[02:05:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-748, y=72, z=141} jd{x=-749, y=70, z=139}
-[02:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-747, y=71, z=140} jd{x=-746, y=70, z=141}
-[02:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-747, y=71, z=140} jd{x=-746, y=70, z=141}
-[02:05:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-752, y=77, z=166} jd{x=-751, y=76, z=166}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=171} jd{x=-751, y=74, z=170}
-[02:05:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-755, y=76, z=172} jd{x=-755, y=75, z=173}
-[02:05:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-757, y=76, z=172} jd{x=-758, y=75, z=170}
-[02:05:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-758, y=76, z=172} jd{x=-758, y=75, z=170}
-[02:11:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-717, y=112, z=102} jd{x=-718, y=113, z=108}
-[02:13:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-721, y=111, z=114}
-[02:18:56] [Server thread/INFO]: [Not Secure] <Big_J> -800 350
-[02:19:01] [Server thread/INFO]: [Not Secure] <Big_J> -350 400
-[02:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.46718232790476577
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.7830824751220007
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.0949758029261147
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.4029868411149664
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.38233980753363994
-[02:26:13] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.3720089715894801
-[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.6023688681123076
-[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 0.8452775418512601
-[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.1138672668271283
-[02:26:14] [Server thread/WARN]: Birch Boat (vehicle of Big_J) moved wrongly! 1.3898025513520906
-[02:27:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-724, y=64, z=400} jd{x=-724, y=64, z=402}
-[02:27:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-716, y=64, z=416} jd{x=-717, y=63, z=417}
-[02:28:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-727, y=66, z=390} jd{x=-734, y=65, z=391}
-[02:28:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-727, y=66, z=390} jd{x=-734, y=65, z=391}
-[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
-[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
-[02:29:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-738, y=64, z=384} jd{x=-737, y=64, z=384}
-[02:29:59] [Server thread/INFO]: [Not Secure] <Naikus12> -723 111 111
-[02:33:50] [Server thread/INFO]: Big_J lost connection: Disconnected
-[02:33:50] [Server thread/INFO]: Big_J left the game
-[02:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-829, y=44, z=109} jd{x=-831, y=44, z=109}
-[02:37:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-829, y=44, z=109} jd{x=-831, y=44, z=109}
-[02:37:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-827, y=44, z=109} jd{x=-826, y=43, z=109}
-[02:37:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-828, y=45, z=108} jd{x=-831, y=44, z=110}
-[02:37:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-829, y=45, z=108} jd{x=-831, y=44, z=110}
-[02:37:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-829, y=45, z=108} jd{x=-831, y=44, z=110}
-[02:37:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-829, y=45, z=108} jd{x=-831, y=44, z=110}
-[02:37:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-827, y=44, z=109} jd{x=-827, y=42, z=108}
-[02:37:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-827, y=44, z=109} jd{x=-827, y=42, z=108}
-[02:37:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-826, y=45, z=108} jd{x=-825, y=44, z=107}
-[02:38:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-834, y=51, z=119} jd{x=-831, y=50, z=119}
-[02:38:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-834, y=51, z=120} jd{x=-831, y=50, z=119}
-[02:38:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-835, y=51, z=120} jd{x=-831, y=50, z=119}
-[02:38:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-835, y=51, z=120} jd{x=-831, y=50, z=119}
-[02:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-835, y=51, z=119} jd{x=-835, y=50, z=121}
-[02:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-835, y=51, z=119} jd{x=-835, y=50, z=121}
-[02:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-834, y=52, z=118} jd{x=-835, y=53, z=119}
-[02:39:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-818, y=20, z=104} jd{x=-819, y=19, z=107}
-[02:39:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-818, y=20, z=104} jd{x=-819, y=19, z=107}
-[02:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-883, y=-2, z=82} jd{x=-884, y=-3, z=81}
-[02:40:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-868, y=-12, z=148} jd{x=-867, y=-12, z=147}
-[02:40:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-868, y=-12, z=148} jd{x=-867, y=-12, z=147}
-[02:41:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-919, y=-10, z=164} jd{x=-923, y=-8, z=163}
-[02:41:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-919, y=-10, z=164} jd{x=-923, y=-8, z=164}
-[02:41:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-919, y=-10, z=164} jd{x=-923, y=-8, z=164}
-[02:42:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-925, y=-7, z=158} jd{x=-924, y=-8, z=157}
-[02:49:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-658, y=101, z=9} jd{x=-756, y=111, z=126}
-[03:09:27] [Server thread/INFO]: Naikus12 has made the advancement [Hot Stuff]
-[03:16:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-763, y=111, z=127}
-[03:21:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-763, y=111, z=127} jd{x=-763, y=111, z=133}
-[03:24:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-763, y=111, z=133} jd{x=-763, y=111, z=135}
-[03:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-763, y=111, z=137} jd{x=-722, y=111, z=103}
-[03:27:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=111, z=100} jd{x=-762, y=111, z=139}
-[03:27:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=111, z=100} jd{x=-722, y=111, z=105}
-[03:28:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-718, y=111, z=100} jd{x=-763, y=111, z=141}
-[03:28:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-718, y=111, z=100} jd{x=-762, y=111, z=141}
-[03:38:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=113}
-[03:38:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=111, z=127} jd{x=-720, y=111, z=112}
-[03:40:48] [Server thread/INFO]: Naikus12 has made the advancement [Cover Me with Diamonds]
-[04:12:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-725, y=111, z=116} jd{x=-721, y=111, z=117}
-[04:12:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-725, y=111, z=116} jd{x=-721, y=111, z=117}
-[04:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[04:12:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-722, y=111, z=111}
-[04:13:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-722, y=110, z=112} jd{x=-721, y=111, z=114}
-[04:13:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-722, y=110, z=112} jd{x=-726, y=111, z=112}
-[04:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=110, z=112} jd{x=-761, y=111, z=127}
-[04:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=110, z=112} jd{x=-761, y=111, z=127}
-[04:18:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-726, y=110, z=112} jd{x=-761, y=111, z=127}
-[04:18:47] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-732, y=110, z=113} jd{x=-730, y=111, z=112}
-[04:32:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=102}
-[04:32:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=102}
-[04:32:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-718, y=111, z=103}
-[04:32:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-719, y=111, z=103}
-[04:42:18] [Server thread/INFO]: Naikus12 lost connection: Disconnected
-[04:42:18] [Server thread/INFO]: Naikus12 left the game
-[04:42:41] [Server thread/INFO]: Stopping the server
-[04:42:41] [Server thread/INFO]: Stopping server
-[04:42:41] [Server thread/INFO]: Saving players
-[04:42:41] [Server thread/INFO]: Saving worlds
-[04:42:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
-[04:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
-[04:42:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
-[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
-[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:42:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:36:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:37:03] [ServerMain/INFO]: Loaded 1290 recipes
+[22:37:03] [ServerMain/INFO]: Loaded 1399 advancements
+[22:37:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:37:09] [Server thread/INFO]: Loading properties
+[22:37:09] [Server thread/INFO]: Default game type: SURVIVAL
+[22:37:09] [Server thread/INFO]: Generating keypair
+[22:37:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:37:10] [Server thread/INFO]: Using epoll channel type
+[22:37:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:37:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:37:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:37:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:37:10] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
+[22:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[22:37:20] [Server thread/INFO]: Time elapsed: 1609 ms
+[22:37:20] [Server thread/INFO]: Done (10.070s)! For help, type "help"
+[22:37:22] [Server thread/INFO]: Big_J[/127.235.65.110:54677] logged in with entity id 28 at (-712.403197649158, 112.0, 109.35443249977537)
+[22:37:22] [Server thread/INFO]: Big_J joined the game
+[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[22:38:49] [Server thread/INFO]: Naikus12[/127.244.210.230:53279] logged in with entity id 455 at (-718.2375000119209, 111.0, 108.77627457453208)
+[22:38:49] [Server thread/INFO]: Naikus12 joined the game
+[22:40:08] [Server thread/INFO]: [Not Secure] <Naikus12> zzzz
+[22:41:13] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzz
+[22:42:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-720, y=111, z=118}
