@@ -26,3 +26,12 @@
 [22:40:08] [Server thread/INFO]: [Not Secure] <Naikus12> zzzz
 [22:41:13] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzz
 [22:42:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-720, y=111, z=118}
+[22:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=114} jd{x=-714, y=111, z=103}
+[22:59:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-713, y=112, z=102} jd{x=-712, y=111, z=102}
+[22:59:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-9, z=132} jd{x=-855, y=-10, z=133}
+[22:59:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-856, y=-7, z=133} jd{x=-855, y=-9, z=133}
+[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-856, y=-7, z=133} jd{x=-855, y=-9, z=133}
+[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
+[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
+[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
+[23:06:11] [Server thread/INFO]: Big_J has made the advancement [Ice Bucket Challenge]
