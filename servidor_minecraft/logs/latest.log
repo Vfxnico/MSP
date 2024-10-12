@@ -46,3 +46,8 @@
 [23:44:42] [Server thread/INFO]: Naikus12[/127.244.210.230:53553] logged in with entity id 12811 at (-761.8855979597556, 111.0, 140.5268735287204)
 [23:44:42] [Server thread/INFO]: Naikus12 joined the game
 [23:45:46] [Server thread/INFO]: Naikus12 has made the advancement [We Need to Go Deeper]
+[23:54:25] [Server thread/INFO]: [Not Secure] <Naikus12> 283 -85
+[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
+[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
+[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
+[23:55:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
