@@ -35,3 +35,11 @@
 [22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
 [22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
 [23:06:11] [Server thread/INFO]: Big_J has made the advancement [Ice Bucket Challenge]
+[23:07:02] [Server thread/INFO]: Big_J lost connection: Disconnected
+[23:07:02] [Server thread/INFO]: Big_J left the game
+[23:07:07] [Server thread/INFO]: Big_J[/127.235.65.110:52923] logged in with entity id 7419 at (-905.5541959536013, -21.0, 36.30000001192093)
+[23:07:07] [Server thread/INFO]: Big_J joined the game
+[23:10:50] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[23:10:50] [Server thread/INFO]: Naikus12 left the game
+[23:11:18] [Server thread/INFO]: Big_J has made the advancement [We Need to Go Deeper]
+[23:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7415ms or 148 ticks behind
