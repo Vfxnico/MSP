@@ -24,3 +24,6 @@
 [00:41:34] [Server thread/INFO]: Big_J joined the game
 [00:43:05] [Server thread/INFO]: Big_J lost connection: Disconnected
 [00:43:05] [Server thread/INFO]: Big_J left the game
+[01:00:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-710, y=109, z=97} jd{x=-707, y=111, z=98}
+[01:01:35] [Server thread/INFO]: [Not Secure] <Naikus12> -648 -48 9
+[01:04:00] [Server thread/INFO]: Naikus12 has made the advancement [Sneak 100]
