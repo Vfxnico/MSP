@@ -1,53 +1,6 @@
-[22:36:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:37:03] [ServerMain/INFO]: Loaded 1290 recipes
-[22:37:03] [ServerMain/INFO]: Loaded 1399 advancements
-[22:37:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:37:09] [Server thread/INFO]: Loading properties
-[22:37:09] [Server thread/INFO]: Default game type: SURVIVAL
-[22:37:09] [Server thread/INFO]: Generating keypair
-[22:37:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:37:10] [Server thread/INFO]: Using epoll channel type
-[22:37:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:37:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:37:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:37:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:37:10] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
-[22:37:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:37:19] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[22:37:20] [Server thread/INFO]: Time elapsed: 1609 ms
-[22:37:20] [Server thread/INFO]: Done (10.070s)! For help, type "help"
-[22:37:22] [Server thread/INFO]: Big_J[/127.235.65.110:54677] logged in with entity id 28 at (-712.403197649158, 112.0, 109.35443249977537)
-[22:37:22] [Server thread/INFO]: Big_J joined the game
-[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
-[22:38:49] [Server thread/INFO]: Naikus12[/127.244.210.230:53279] logged in with entity id 455 at (-718.2375000119209, 111.0, 108.77627457453208)
-[22:38:49] [Server thread/INFO]: Naikus12 joined the game
-[22:40:08] [Server thread/INFO]: [Not Secure] <Naikus12> zzzz
-[22:41:13] [Server thread/INFO]: [Not Secure] <Naikus12> zzzzz
-[22:42:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=113} jd{x=-720, y=111, z=118}
-[22:58:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-720, y=111, z=114} jd{x=-714, y=111, z=103}
-[22:59:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-713, y=112, z=102} jd{x=-712, y=111, z=102}
-[22:59:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-9, z=132} jd{x=-855, y=-10, z=133}
-[22:59:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-856, y=-7, z=133} jd{x=-855, y=-9, z=133}
-[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-856, y=-7, z=133} jd{x=-855, y=-9, z=133}
-[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
-[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
-[22:59:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-855, y=-7, z=133} jd{x=-855, y=-9, z=133}
-[23:06:11] [Server thread/INFO]: Big_J has made the advancement [Ice Bucket Challenge]
-[23:07:02] [Server thread/INFO]: Big_J lost connection: Disconnected
-[23:07:02] [Server thread/INFO]: Big_J left the game
-[23:07:07] [Server thread/INFO]: Big_J[/127.235.65.110:52923] logged in with entity id 7419 at (-905.5541959536013, -21.0, 36.30000001192093)
-[23:07:07] [Server thread/INFO]: Big_J joined the game
-[23:10:50] [Server thread/INFO]: Naikus12 lost connection: Disconnected
-[23:10:50] [Server thread/INFO]: Naikus12 left the game
-[23:11:18] [Server thread/INFO]: Big_J has made the advancement [We Need to Go Deeper]
-[23:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7415ms or 148 ticks behind
-[23:44:42] [Server thread/INFO]: Naikus12[/127.244.210.230:53553] logged in with entity id 12811 at (-761.8855979597556, 111.0, 140.5268735287204)
-[23:44:42] [Server thread/INFO]: Naikus12 joined the game
-[23:45:46] [Server thread/INFO]: Naikus12 has made the advancement [We Need to Go Deeper]
-[23:54:25] [Server thread/INFO]: [Not Secure] <Naikus12> 283 -85
-[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
-[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
-[23:55:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
-[23:55:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-52, y=106, z=21} jd{x=-50, y=107, z=21}
+[00:04:13] [Server thread/INFO]: Big_J lost connection: Disconnected
+[00:04:13] [Server thread/INFO]: Big_J left the game
+[00:04:29] [Server thread/INFO]: Big_J (/127.235.65.110:42311) lost connection: Disconnected
+[00:05:07] [Server thread/INFO]: Big_J[/127.235.65.110:60241] logged in with entity id 23693 at (-682.6107678757556, 113.0, 110.66819504471164)
+[00:05:07] [Server thread/INFO]: Big_J joined the game
+[00:05:18] [Server thread/INFO]: [Not Secure] <Naikus12> -91 114 10
