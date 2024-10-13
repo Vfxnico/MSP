@@ -27,3 +27,16 @@
 [01:00:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-710, y=109, z=97} jd{x=-707, y=111, z=98}
 [01:01:35] [Server thread/INFO]: [Not Secure] <Naikus12> -648 -48 9
 [01:04:00] [Server thread/INFO]: Naikus12 has made the advancement [Sneak 100]
+[01:11:25] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[01:11:25] [Server thread/INFO]: Naikus12 left the game
+[01:11:44] [Server thread/INFO]: Stopping the server
+[01:11:44] [Server thread/INFO]: Stopping server
+[01:11:44] [Server thread/INFO]: Saving players
+[01:11:44] [Server thread/INFO]: Saving worlds
+[01:11:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[01:11:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[01:11:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[01:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[01:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:11:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
