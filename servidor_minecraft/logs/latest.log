@@ -33,3 +33,14 @@
 [01:14:17] [Server thread/INFO]: Big_J joined the game
 [01:16:20] [Server thread/INFO]: Big_J lost connection: Disconnected
 [01:16:20] [Server thread/INFO]: Big_J left the game
+[02:42:56] [Server thread/INFO]: Stopping the server
+[02:42:56] [Server thread/INFO]: Stopping server
+[02:42:56] [Server thread/INFO]: Saving players
+[02:42:56] [Server thread/INFO]: Saving worlds
+[02:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[02:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[02:42:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[02:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[02:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:42:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
