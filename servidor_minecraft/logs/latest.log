@@ -22,3 +22,16 @@
 [00:59:09] [Server thread/INFO]: Naikus12[/127.154.155.76:49279] logged in with entity id 28 at (-717.7307187967097, 112.0, 153.75936109006656)
 [00:59:09] [Server thread/INFO]: Naikus12 joined the game
 [00:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[02:58:22] [Server thread/INFO]: Naikus12 lost connection: Disconnected
+[02:58:22] [Server thread/INFO]: Naikus12 left the game
+[02:58:30] [Server thread/INFO]: Stopping the server
+[02:58:30] [Server thread/INFO]: Stopping server
+[02:58:30] [Server thread/INFO]: Saving players
+[02:58:30] [Server thread/INFO]: Saving worlds
+[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
