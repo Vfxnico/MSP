@@ -131,3 +131,4 @@
 [05:06:45] [Server thread/INFO]: Big_J left the game
 [05:07:17] [Server thread/INFO]: Big_J[/127.235.65.110:47563] logged in with entity id 67236 at (-659.4823219376502, 61.20492726622003, 111.49689607367586)
 [05:07:17] [Server thread/INFO]: Big_J joined the game
+[05:17:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-679, y=104, z=161} jd{x=-115, y=80, z=37}
