@@ -67,3 +67,14 @@
 [03:04:21] [Server thread/INFO]: anthtluvh has made the advancement [Getting an Upgrade]
 [03:16:17] [Server thread/INFO]: anthtluvh has made the advancement [Acquire Hardware]
 [03:25:04] [Server thread/INFO]: anthtluvh has made the advancement [Take Aim]
+[03:30:06] [Server thread/INFO]: anthtluvh has made the advancement [Ice Bucket Challenge]
+[03:32:05] [Server thread/INFO]: Big_J lost connection: Disconnected
+[03:32:05] [Server thread/INFO]: Big_J left the game
+[03:32:18] [Server thread/INFO]: Big_J[/127.235.65.110:39011] logged in with entity id 38951 at (-664.6971356910158, 94.0, 69.59532735423353)
+[03:32:18] [Server thread/INFO]: Big_J joined the game
+[03:34:03] [Server thread/INFO]: Big_J lost connection: Timed out
+[03:34:03] [Server thread/INFO]: Big_J left the game
+[03:34:04] [Server thread/WARN]: handleDisconnection() called twice
+[03:34:19] [Server thread/INFO]: Big_J[/127.235.65.110:56207] logged in with entity id 40016 at (-709.7712837863633, 111.0, 114.05177101750144)
+[03:34:19] [Server thread/INFO]: Big_J joined the game
+[03:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-709, y=102, z=183}
