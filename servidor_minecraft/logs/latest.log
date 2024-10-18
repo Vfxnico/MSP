@@ -119,3 +119,6 @@
 [04:30:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=102, z=187} jd{x=-720, y=101, z=187}
 [04:30:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=102, z=187} jd{x=-720, y=101, z=187}
 [04:48:56] [Server thread/INFO]: [Not Secure] <Big_J> bueno
+[04:53:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-100, y=74, z=15} jd{x=-107, y=74, z=14}
+[04:54:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-110, y=73, z=13} jd{x=-91, y=74, z=22}
+[04:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-92, y=73, z=18} jd{x=-89, y=73, z=18}
