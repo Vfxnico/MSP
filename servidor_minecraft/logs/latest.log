@@ -78,3 +78,7 @@
 [03:34:19] [Server thread/INFO]: Big_J[/127.235.65.110:56207] logged in with entity id 40016 at (-709.7712837863633, 111.0, 114.05177101750144)
 [03:34:19] [Server thread/INFO]: Big_J joined the game
 [03:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-709, y=102, z=183}
+[03:47:52] [Server thread/INFO]: anthtluvh has made the advancement [Diamonds!]
+[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
+[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
+[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
