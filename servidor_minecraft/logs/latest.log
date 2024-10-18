@@ -55,3 +55,6 @@
 [02:19:45] [Server thread/INFO]: Villager cmk['Villager'/21486, l='ServerLevel[LaFungiAventurasDeNicoYJulio]', x=-712.30, y=111.00, z=102.30] died, message: 'Villager was slain by anthtluvh'
 [02:24:07] [Server thread/INFO]: anthtluvh has made the advancement [We Need to Go Deeper]
 [02:27:10] [Server thread/INFO]: [Not Secure] <Big_J> si confio
+[02:28:07] [Server thread/INFO]: anthtluvh has made the advancement [Fishy Business]
+[02:29:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-713, y=111, z=108} jd{x=-776, y=109, z=102}
+[02:34:53] [Server thread/INFO]: anthtluvh has made the advancement [Best Friends Forever]
