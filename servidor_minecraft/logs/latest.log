@@ -1,141 +1,31 @@
-[01:07:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:07:31] [ServerMain/INFO]: Loaded 1290 recipes
-[01:07:31] [ServerMain/INFO]: Loaded 1399 advancements
-[01:07:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:07:32] [Server thread/INFO]: Loading properties
-[01:07:32] [Server thread/INFO]: Default game type: SURVIVAL
-[01:07:32] [Server thread/INFO]: Generating keypair
-[01:07:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:07:32] [Server thread/INFO]: Using epoll channel type
-[01:07:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:07:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:07:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:07:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:07:33] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
-[01:07:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:42] [Server thread/INFO]: Time elapsed: 901 ms
-[01:07:42] [Server thread/INFO]: Done (9.611s)! For help, type "help"
-[01:07:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:07:42] [Server thread/INFO]: <--[HERE]
-[01:11:25] [Server thread/INFO]: Big_J[/127.235.65.110:46317] logged in with entity id 28 at (-722.0696115351394, 114.0, 114.14452579749734)
-[01:11:25] [Server thread/INFO]: Big_J joined the game
-[01:28:47] [Server thread/INFO]: Big_J lost connection: Disconnected
-[01:28:47] [Server thread/INFO]: Big_J left the game
-[01:28:50] [Server thread/INFO]: Big_J[/127.235.65.110:42533] logged in with entity id 2224 at (-705.1516494276012, 111.0, 110.68036487274289)
-[01:28:50] [Server thread/INFO]: Big_J joined the game
-[01:32:07] [Server thread/INFO]: Big_J lost connection: Disconnected
-[01:32:07] [Server thread/INFO]: Big_J left the game
-[01:33:03] [Server thread/INFO]: Big_J[/127.235.65.110:38419] logged in with entity id 2779 at (-712.5, 111.0, 114.5)
-[01:33:03] [Server thread/INFO]: Big_J joined the game
-[01:42:39] [Server thread/INFO]: anthtluvh[/127.53.32.175:60763] logged in with entity id 3896 at (-0.5, 77.0, 40.5)
-[01:42:39] [Server thread/INFO]: anthtluvh joined the game
-[01:42:48] [Server thread/INFO]: anthtluvh lost connection: Disconnected
-[01:42:48] [Server thread/INFO]: anthtluvh left the game
-[01:43:04] [Server thread/INFO]: anthtluvh[/127.53.32.175:60457] logged in with entity id 4139 at (-0.5, 77.0, 40.5)
-[01:43:04] [Server thread/INFO]: anthtluvh joined the game
-[01:43:46] [Server thread/INFO]: [Not Secure] <Big_J> 22 32
-[01:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
-[01:52:41] [Server thread/INFO]: anthtluvh has made the advancement [Cover Me with Diamonds]
-[01:54:57] [Server thread/INFO]: [Not Secure] <Big_J> 700 -100
-[01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.27388008652746976
-[01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.2721957552645904
-[01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.284544136011732
-[01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.3692451435238695
-[02:03:10] [Server thread/INFO]: Big_J tried to swim in lava
-[02:03:28] [Server thread/INFO]: [Not Secure] <Big_J> -712 111
-[02:03:34] [Server thread/INFO]: anthtluvh has made the advancement [Hot Stuff]
-[02:03:59] [Server thread/INFO]: [Not Secure] <Big_J> 606 -178
-[02:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-686, y=111, z=-168} jd{x=-686, y=111, z=-167}
-[02:05:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=618, y=66, z=-183} jd{x=618, y=66, z=-184}
-[02:17:20] [Server thread/INFO]: anthtluvh has made the advancement [Not Today, Thank You]
-[02:17:28] [Server thread/INFO]: anthtluvh has made the advancement [Monster Hunter]
-[02:19:29] [Server thread/INFO]: anthtluvh has made the advancement [Sweet Dreams]
-[02:19:45] [Server thread/INFO]: Villager cmk['Villager'/21486, l='ServerLevel[LaFungiAventurasDeNicoYJulio]', x=-712.30, y=111.00, z=102.30] died, message: 'Villager was slain by anthtluvh'
-[02:24:07] [Server thread/INFO]: anthtluvh has made the advancement [We Need to Go Deeper]
-[02:27:10] [Server thread/INFO]: [Not Secure] <Big_J> si confio
-[02:28:07] [Server thread/INFO]: anthtluvh has made the advancement [Fishy Business]
-[02:29:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-713, y=111, z=108} jd{x=-776, y=109, z=102}
-[02:34:53] [Server thread/INFO]: anthtluvh has made the advancement [Best Friends Forever]
-[02:45:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-694, y=112, z=142} jd{x=-696, y=110, z=143}
-[02:45:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-714, y=112, z=181} jd{x=-715, y=110, z=182}
-[02:46:23] [Server thread/INFO]: anthtluvh has made the advancement [A Seedy Place]
-[02:48:08] [Server thread/INFO]: anthtluvh has made the advancement [What a Deal!]
-[02:55:24] [Server thread/INFO]: Villager cmk['Nitwit'/23224, l='ServerLevel[LaFungiAventurasDeNicoYJulio]', x=-652.13, y=62.50, z=100.13] died, message: 'Nitwit was slain by Drowned'
-[03:03:02] [Server thread/INFO]: anthtluvh has made the advancement [Stone Age]
-[03:04:21] [Server thread/INFO]: anthtluvh has made the advancement [Getting an Upgrade]
-[03:16:17] [Server thread/INFO]: anthtluvh has made the advancement [Acquire Hardware]
-[03:25:04] [Server thread/INFO]: anthtluvh has made the advancement [Take Aim]
-[03:30:06] [Server thread/INFO]: anthtluvh has made the advancement [Ice Bucket Challenge]
-[03:32:05] [Server thread/INFO]: Big_J lost connection: Disconnected
-[03:32:05] [Server thread/INFO]: Big_J left the game
-[03:32:18] [Server thread/INFO]: Big_J[/127.235.65.110:39011] logged in with entity id 38951 at (-664.6971356910158, 94.0, 69.59532735423353)
-[03:32:18] [Server thread/INFO]: Big_J joined the game
-[03:34:03] [Server thread/INFO]: Big_J lost connection: Timed out
-[03:34:03] [Server thread/INFO]: Big_J left the game
-[03:34:04] [Server thread/WARN]: handleDisconnection() called twice
-[03:34:19] [Server thread/INFO]: Big_J[/127.235.65.110:56207] logged in with entity id 40016 at (-709.7712837863633, 111.0, 114.05177101750144)
-[03:34:19] [Server thread/INFO]: Big_J joined the game
-[03:38:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-709, y=102, z=183}
-[03:47:52] [Server thread/INFO]: anthtluvh has made the advancement [Diamonds!]
-[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
-[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
-[03:48:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-719, y=105, z=179} jd{x=-710, y=107, z=175}
-[03:49:10] [Server thread/INFO]: Named entity cgc['Roberto'/40446, l='ServerLevel[LaFungiAventurasDeNicoYJulio]', x=-722.35, y=111.00, z=114.53] died: Roberto drowned
-[04:03:50] [Server thread/WARN]: Big_J moved wrongly!
-[04:04:11] [Server thread/INFO]: anthtluvh was doomed to fall by Piglin
-[04:06:49] [Server thread/WARN]: Big_J moved wrongly!
-[04:10:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=108, z=172} jd{x=-719, y=109, z=173}
-[04:10:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-724, y=109, z=177} jd{x=-723, y=109, z=177}
-[04:10:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-724, y=109, z=177} jd{x=-723, y=109, z=177}
-[04:10:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-724, y=109, z=177} jd{x=-723, y=109, z=177}
-[04:11:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-733, y=107, z=185} jd{x=-732, y=110, z=186}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-714, y=110, z=177} jd{x=-712, y=110, z=176}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-714, y=110, z=177} jd{x=-712, y=110, z=176}
-[04:12:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-714, y=110, z=177} jd{x=-712, y=110, z=176}
-[04:12:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-711, y=110, z=174} jd{x=-711, y=110, z=180}
-[04:12:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-711, y=110, z=174} jd{x=-711, y=110, z=180}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=108, z=159} jd{x=-709, y=109, z=159}
-[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=109, z=157} jd{x=-709, y=109, z=158}
-[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=109, z=157} jd{x=-709, y=109, z=158}
-[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-709, y=109, z=158} jd{x=-709, y=108, z=157}
-[04:14:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-709, y=109, z=158} jd{x=-709, y=108, z=157}
-[04:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-735, y=109, z=182} jd{x=-734, y=110, z=179}
-[04:19:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-694, y=109, z=140} jd{x=-695, y=109, z=140}
-[04:19:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-694, y=109, z=140} jd{x=-695, y=109, z=140}
-[04:19:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-694, y=109, z=140} jd{x=-695, y=109, z=140}
-[04:19:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-694, y=109, z=140} jd{x=-695, y=109, z=140}
-[04:22:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-741, y=109, z=185} jd{x=-737, y=110, z=181}
-[04:26:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-712, y=110, z=154} jd{x=-711, y=110, z=153}
-[04:26:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-708, y=110, z=150} jd{x=-702, y=110, z=144}
-[04:30:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-725, y=104, z=187} jd{x=-723, y=104, z=187}
-[04:30:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=102, z=187} jd{x=-720, y=101, z=187}
-[04:30:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=102, z=187} jd{x=-720, y=101, z=187}
-[04:30:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-721, y=102, z=187} jd{x=-720, y=101, z=187}
-[04:48:56] [Server thread/INFO]: [Not Secure] <Big_J> bueno
-[04:53:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-100, y=74, z=15} jd{x=-107, y=74, z=14}
-[04:54:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-110, y=73, z=13} jd{x=-91, y=74, z=22}
-[04:54:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-92, y=73, z=18} jd{x=-89, y=73, z=18}
-[05:05:17] [Server thread/INFO]: Big_J lost connection: Disconnected
-[05:05:17] [Server thread/INFO]: Big_J left the game
-[05:06:15] [Server thread/INFO]: Big_J[/127.235.65.110:58147] logged in with entity id 66969 at (-659.4823219376502, 61.20492726622003, 111.49689607367586)
-[05:06:15] [Server thread/INFO]: Big_J joined the game
-[05:06:35] [Server thread/INFO]: Big_J drowned
-[05:06:45] [Server thread/INFO]: Big_J lost connection: Timed out
-[05:06:45] [Server thread/INFO]: Big_J left the game
-[05:07:17] [Server thread/INFO]: Big_J[/127.235.65.110:47563] logged in with entity id 67236 at (-659.4823219376502, 61.20492726622003, 111.49689607367586)
-[05:07:17] [Server thread/INFO]: Big_J joined the game
-[05:17:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-679, y=104, z=161} jd{x=-115, y=80, z=37}
-[05:28:55] [Server thread/WARN]: POPEYE (vehicle of Big_J) moved wrongly! 0.2751214391700785
-[05:29:39] [Server thread/INFO]: anthtluvh was slain by Iron Golem
-[05:34:32] [Server thread/INFO]: Big_J fell off a ladder
-[05:36:03] [Server thread/INFO]: Big_J lost connection: Disconnected
-[05:36:03] [Server thread/INFO]: Big_J left the game
-[05:36:17] [Server thread/INFO]: anthtluvh lost connection: Disconnected
-[05:36:17] [Server thread/INFO]: anthtluvh left the game
+[16:28:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:28:06] [ServerMain/INFO]: Loaded 1290 recipes
+[16:28:07] [ServerMain/INFO]: Loaded 1399 advancements
+[16:28:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:28:07] [Server thread/INFO]: Loading properties
+[16:28:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:28:07] [Server thread/INFO]: Generating keypair
+[16:28:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:28:08] [Server thread/INFO]: Using epoll channel type
+[16:28:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:28:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:28:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:28:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:28:08] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
+[16:28:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:28:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:28:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:28:17] [Worker-Main-1/INFO]: Preparing spawn area: 6%
+[16:28:17] [Server thread/INFO]: Time elapsed: 1065 ms
+[16:28:17] [Server thread/INFO]: Done (9.821s)! For help, type "help"
+[16:28:21] [Server thread/INFO]: Stopping the server
+[16:28:21] [Server thread/INFO]: Stopping server
+[16:28:21] [Server thread/INFO]: Saving players
+[16:28:21] [Server thread/INFO]: Saving worlds
+[16:28:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
+[16:28:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
+[16:28:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
+[16:28:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
+[16:28:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:28:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:28:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
