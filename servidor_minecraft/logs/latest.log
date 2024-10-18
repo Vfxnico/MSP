@@ -1,37 +1,23 @@
-[00:58:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:58:31] [ServerMain/INFO]: Loaded 1290 recipes
-[00:58:31] [ServerMain/INFO]: Loaded 1399 advancements
-[00:58:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:58:32] [Server thread/INFO]: Loading properties
-[00:58:32] [Server thread/INFO]: Default game type: SURVIVAL
-[00:58:32] [Server thread/INFO]: Generating keypair
-[00:58:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:58:33] [Server thread/INFO]: Using epoll channel type
-[00:58:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:58:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:58:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:58:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:58:33] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
-[00:58:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:58:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:58:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:58:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:58:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:58:45] [Server thread/INFO]: Time elapsed: 1773 ms
-[00:58:45] [Server thread/INFO]: Done (12.302s)! For help, type "help"
-[00:59:09] [Server thread/INFO]: Naikus12[/127.154.155.76:49279] logged in with entity id 28 at (-717.7307187967097, 112.0, 153.75936109006656)
-[00:59:09] [Server thread/INFO]: Naikus12 joined the game
-[00:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
-[02:58:22] [Server thread/INFO]: Naikus12 lost connection: Disconnected
-[02:58:22] [Server thread/INFO]: Naikus12 left the game
-[02:58:30] [Server thread/INFO]: Stopping the server
-[02:58:30] [Server thread/INFO]: Stopping server
-[02:58:30] [Server thread/INFO]: Saving players
-[02:58:30] [Server thread/INFO]: Saving worlds
-[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:overworld
-[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_nether
-[02:58:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LaFungiAventurasDeNicoYJulio]'/minecraft:the_end
-[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (LaFungiAventurasDeNicoYJulio): All chunks are saved
-[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:58:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:07:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:07:31] [ServerMain/INFO]: Loaded 1290 recipes
+[01:07:31] [ServerMain/INFO]: Loaded 1399 advancements
+[01:07:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:07:32] [Server thread/INFO]: Loading properties
+[01:07:32] [Server thread/INFO]: Default game type: SURVIVAL
+[01:07:32] [Server thread/INFO]: Generating keypair
+[01:07:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:07:32] [Server thread/INFO]: Using epoll channel type
+[01:07:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:07:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:07:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:07:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:07:33] [Server thread/INFO]: Preparing level "LaFungiAventurasDeNicoYJulio"
+[01:07:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:07:42] [Server thread/INFO]: Time elapsed: 901 ms
+[01:07:42] [Server thread/INFO]: Done (9.611s)! For help, type "help"
+[01:07:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:07:42] [Server thread/INFO]: <--[HERE]
+[01:11:25] [Server thread/INFO]: Big_J[/127.235.65.110:46317] logged in with entity id 28 at (-722.0696115351394, 114.0, 114.14452579749734)
+[01:11:25] [Server thread/INFO]: Big_J joined the game
