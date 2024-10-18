@@ -43,3 +43,9 @@
 [01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.2721957552645904
 [01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.284544136011732
 [01:57:10] [Server thread/WARN]: Jungle Boat (vehicle of Big_J) moved wrongly! 0.3692451435238695
+[02:03:10] [Server thread/INFO]: Big_J tried to swim in lava
+[02:03:28] [Server thread/INFO]: [Not Secure] <Big_J> -712 111
+[02:03:34] [Server thread/INFO]: anthtluvh has made the advancement [Hot Stuff]
+[02:03:59] [Server thread/INFO]: [Not Secure] <Big_J> 606 -178
+[02:04:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-686, y=111, z=-168} jd{x=-686, y=111, z=-167}
+[02:05:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=618, y=66, z=-183} jd{x=618, y=66, z=-184}
