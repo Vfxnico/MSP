@@ -132,3 +132,4 @@
 [05:07:17] [Server thread/INFO]: Big_J[/127.235.65.110:47563] logged in with entity id 67236 at (-659.4823219376502, 61.20492726622003, 111.49689607367586)
 [05:07:17] [Server thread/INFO]: Big_J joined the game
 [05:17:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-679, y=104, z=161} jd{x=-115, y=80, z=37}
+[05:28:55] [Server thread/WARN]: POPEYE (vehicle of Big_J) moved wrongly! 0.2751214391700785
